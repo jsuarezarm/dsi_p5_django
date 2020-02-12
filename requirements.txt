@@ -1,4 +1,4 @@
-Django==1.5
+Django==1.11.28
 Landscape-Client==13.07.3
 PAM==0.4.2
 Twisted-Core==13.0.0
